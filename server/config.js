@@ -9,4 +9,4 @@ ServiceConfiguration.configurations.upsert({
 
 
 Accounts.emailTemplates.siteName = "BuildSessions";
-Accounts.emailTemplates.from     = "BuildSessions <cforster@dalton.org>";
+Accounts.emailTemplates.from     = "BuildSessions <leemillsteintodd@gmail.com>";
